@@ -1,4 +1,7 @@
 # hacking-tools
+
+Use this tools with responsability, do not misuse the information you find on the Internet about this tools. 
+
 ## Password decoders
 - John the Ripper
 - Ophcrack
